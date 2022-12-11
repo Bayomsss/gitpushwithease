@@ -17,4 +17,4 @@ You can stop here and copy or move the file to the directory you want to push bu
 
 Step 5: Paste this command 'sudo ln push /usr/local/bin/push' into your terminal press and enter
 
-Step 6: Cheers!!!!!
+Step 6: Cheers!!!!! Anytime you need to push, just type 'push' on your terminal and press enter.
