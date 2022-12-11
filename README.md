@@ -6,8 +6,11 @@ on all platforms or Bayomi Semudara on ALX Intranet.
 Here's how to get the 'push script' on your own machine or ALX webterm
 
 Step 1: Create a file named 'push' --> this file can be created any location.
+
 Step 2: Copy and paste the code from the 'push file' on my gitpushwithease repo, add a new line after git push then save and exit.
+
 Step 3: Make the executable with 'chmod +x push'
+
 Step 4: At this point, you script has been created and you can test it with the command './push'
 
 You can stop here and copy or move the file to the directory you want to push but as developers we are lazy people. So the next steps will ensure that you can push anywhere in your terminal and even still stay active when you log out of the current session. To do this, we have to add our script to $PATH.
